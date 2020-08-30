@@ -3,3 +3,4 @@ pyomo==5.7
 jupyter
 notebook
 matplotlib
+pandas
