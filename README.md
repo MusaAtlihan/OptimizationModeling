@@ -1,2 +1,4 @@
 # OptimizationModeling
-Multiple optimization modeling examples with pyomo.
+Multiple optimization modeling examples with [pyomo](http://www.pyomo.org/).
+
+Knapsack Source: https://github.com/Dexterux/OR_datascience
